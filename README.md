@@ -78,7 +78,7 @@ Dataset ini berisi 5624 data mobil bekas yang diambil dari syarah.com, Berikut b
 
 - Untuk melihat bagaimana model memprediksi data testing apakah underprice atau overprice dapat disimpulkan melalui residualnya. Data yang diprediksi **overprice** berjumlah **393** data, dan yang diprediksi **underprice** berjumlah **303**. Hal ini tentu akan menjawab Goals dari pembuatan model untuk memprediksi harga mobil bekas dimana untuk mencari keuntungan, harga yang cenderung overprice akan baik untuk dijual dan harga yang underprice cenderung baik untuk dibeli lalu dijual kembali dengan melakukan reparasi terlebih dahulu. 
 
-## Rekomendasi 
+## Recomendation 
 
 - Terkait dengan limitasi untuk dalam pemodelan ini, sebaiknya jumlah data diperbanyak menjadi lebih dari dari 3000an (jumlah data yang sudah dibersihkan), agar model dapat memprediksi harga lebih akurat dari banyaknya variasi data juga. (Penambahan data ini perlu diutamakan terhadap data yang representasi variasinya tergolong sedikit). 
 
